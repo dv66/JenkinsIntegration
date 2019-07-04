@@ -8,7 +8,7 @@ public class Main{
 		int b = 30;
 
 		System.out.println(a+b);
-		System.out.println("SCM option started")
+		System.out.println("SCM option started");
 
 	}
 
