@@ -9,6 +9,7 @@ public class Main{
 
 		System.out.println(a+b);
 		System.out.println("SCM option started");
+		System.out.println("Github Trigger check");
 
 	}
 
